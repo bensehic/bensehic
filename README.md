@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bensehic&label=Profile%20views&color=009dff&style=plastic" alt="bensehic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bensehic" alt="bensehic" /></a> </p>
-
 - 🔭 I’m currently working on [Workout tracking web app](https://github.com/bensehic/personal-website/tree/main/ben-dev-personal)
 
 - 🌱 I’m currently learning **React, looking to utilise Next.js in a future project**
